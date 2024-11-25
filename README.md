@@ -44,7 +44,7 @@ The Web application is 1200px wide and have media queries 992px and 768px (mobil
 
 ### Link to Tutor Website
 
-https://pwtaberg.github.io/leno-webapp/
+https://tutor-website-lt0ynx2zh-peters-projects-b4f9dabf.vercel.app/
 
 ## Author
 
