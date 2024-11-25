@@ -62,6 +62,12 @@ img {
   border-color: #fff;
 }
 
+.util-border-black {
+  border: 1px solid black;
+}
+.util-border-blue {
+  border: 1px solid blue;
+}
 /* Text Classes */
 .text-primary {
   color: var(--primary-color);
@@ -191,6 +197,7 @@ img {
   top: 100%;
   left: 0;
   width: 100%;
+
   background: rgba(0, 0, 0, 0.8);
   opacity: 0.95;
   padding: 3rem 2rem;
